@@ -1,1 +1,1 @@
-# my_wp-theme_dev-env
+# My WordPress dev env
